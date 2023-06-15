@@ -1,0 +1,15 @@
+C:\Users\37947\Desktop\ExerciciosEmC#\ExerciciosEmC#\bin\Debug\net7.0\ExerciciosEmC#.exe
+C:\Users\37947\Desktop\ExerciciosEmC#\ExerciciosEmC#\bin\Debug\net7.0\ExerciciosEmC#.deps.json
+C:\Users\37947\Desktop\ExerciciosEmC#\ExerciciosEmC#\bin\Debug\net7.0\ExerciciosEmC#.runtimeconfig.json
+C:\Users\37947\Desktop\ExerciciosEmC#\ExerciciosEmC#\bin\Debug\net7.0\ExerciciosEmC#.dll
+C:\Users\37947\Desktop\ExerciciosEmC#\ExerciciosEmC#\bin\Debug\net7.0\ExerciciosEmC#.pdb
+C:\Users\37947\Desktop\ExerciciosEmC#\ExerciciosEmC#\obj\Debug\net7.0\ExerciciosEmC#.csproj.AssemblyReference.cache
+C:\Users\37947\Desktop\ExerciciosEmC#\ExerciciosEmC#\obj\Debug\net7.0\ExerciciosEmC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37947\Desktop\ExerciciosEmC#\ExerciciosEmC#\obj\Debug\net7.0\ExerciciosEmC#.AssemblyInfoInputs.cache
+C:\Users\37947\Desktop\ExerciciosEmC#\ExerciciosEmC#\obj\Debug\net7.0\ExerciciosEmC#.AssemblyInfo.cs
+C:\Users\37947\Desktop\ExerciciosEmC#\ExerciciosEmC#\obj\Debug\net7.0\ExerciciosEmC#.csproj.CoreCompileInputs.cache
+C:\Users\37947\Desktop\ExerciciosEmC#\ExerciciosEmC#\obj\Debug\net7.0\ExerciciosEmC#.dll
+C:\Users\37947\Desktop\ExerciciosEmC#\ExerciciosEmC#\obj\Debug\net7.0\refint\ExerciciosEmC#.dll
+C:\Users\37947\Desktop\ExerciciosEmC#\ExerciciosEmC#\obj\Debug\net7.0\ExerciciosEmC#.pdb
+C:\Users\37947\Desktop\ExerciciosEmC#\ExerciciosEmC#\obj\Debug\net7.0\ExerciciosEmC#.genruntimeconfig.cache
+C:\Users\37947\Desktop\ExerciciosEmC#\ExerciciosEmC#\obj\Debug\net7.0\ref\ExerciciosEmC#.dll
